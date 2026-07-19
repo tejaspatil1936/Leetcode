@@ -82,6 +82,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tejaspatil1936/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
 ## Greedy
@@ -92,4 +93,12 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/tejaspatil1936/Leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/tejaspatil1936/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
