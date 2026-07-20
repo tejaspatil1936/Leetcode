@@ -65,6 +65,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0036-valid-sudoku](https://github.com/tejaspatil1936/Leetcode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -85,10 +86,12 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0010-regular-expression-matching](https://github.com/tejaspatil1936/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Union-Find
 |  |
 | ------- |
