@@ -116,4 +116,20 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tejaspatil1936/Leetcode/tree/master/0049-group-anagrams) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0099-recover-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
