@@ -63,6 +63,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0031-next-permutation](https://github.com/tejaspatil1936/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/tejaspatil1936/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tejaspatil1936/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tejaspatil1936/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
@@ -80,6 +81,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejaspatil1936/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +136,8 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0099-recover-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
