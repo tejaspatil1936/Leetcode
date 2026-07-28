@@ -139,5 +139,10 @@ Each solution uses the standard optimal approach for its problem rather than a b
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tejaspatil1936/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tejaspatil1936/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
