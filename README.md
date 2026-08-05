@@ -67,6 +67,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0049-group-anagrams](https://github.com/tejaspatil1936/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tejaspatil1936/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -77,12 +78,14 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejaspatil1936/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejaspatil1936/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejaspatil1936/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
