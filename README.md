@@ -69,6 +69,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -86,6 +87,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0036-valid-sudoku](https://github.com/tejaspatil1936/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tejaspatil1936/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -185,8 +188,13 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/tejaspatil1936/Leetcode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Linked List
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tejaspatil1936/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
