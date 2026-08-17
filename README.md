@@ -68,6 +68,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0051-n-queens](https://github.com/tejaspatil1936/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tejaspatil1936/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/tejaspatil1936/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
