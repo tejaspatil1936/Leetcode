@@ -75,6 +75,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejaspatil1936/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/tejaspatil1936/Leetcode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0029-divide-two-integers](https://github.com/tejaspatil1936/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejaspatil1936/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0071-simplify-path](https://github.com/tejaspatil1936/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejaspatil1936/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
