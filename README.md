@@ -97,6 +97,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejaspatil1936/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/tejaspatil1936/Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tejaspatil1936/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
