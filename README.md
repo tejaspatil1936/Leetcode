@@ -108,6 +108,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0010-regular-expression-matching](https://github.com/tejaspatil1936/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/tejaspatil1936/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/tejaspatil1936/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/tejaspatil1936/Leetcode/tree/master/0097-interleaving-string) |
@@ -181,6 +182,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0029-divide-two-integers](https://github.com/tejaspatil1936/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/tejaspatil1936/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejaspatil1936/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
 |  |
@@ -239,4 +241,8 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tejaspatil1936/Leetcode/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tejaspatil1936/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
