@@ -87,6 +87,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0037-sudoku-solver](https://github.com/tejaspatil1936/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/tejaspatil1936/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
@@ -135,6 +136,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0071-simplify-path](https://github.com/tejaspatil1936/Leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/tejaspatil1936/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/tejaspatil1936/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0051-n-queens](https://github.com/tejaspatil1936/Leetcode/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejaspatil1936/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -255,4 +259,8 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejaspatil1936/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
