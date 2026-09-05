@@ -89,6 +89,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejaspatil1936/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0097-interleaving-string](https://github.com/tejaspatil1936/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/tejaspatil1936/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejaspatil1936/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejaspatil1936/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejaspatil1936/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejaspatil1936/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Bit Manipulation
 |  |
 | ------- |
