@@ -72,6 +72,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/tejaspatil1936/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/tejaspatil1936/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaspatil1936/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -98,6 +99,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0037-sudoku-solver](https://github.com/tejaspatil1936/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/tejaspatil1936/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/tejaspatil1936/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
@@ -136,6 +138,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejaspatil1936/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tejaspatil1936/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/tejaspatil1936/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/tejaspatil1936/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/tejaspatil1936/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/tejaspatil1936/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -152,6 +155,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0046-permutations](https://github.com/tejaspatil1936/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tejaspatil1936/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/tejaspatil1936/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/tejaspatil1936/Leetcode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -171,6 +175,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tejaspatil1936/Leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0110-balanced-binary-tree) |
