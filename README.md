@@ -79,6 +79,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0120-triangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tejaspatil1936/Leetcode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejaspatil1936/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/tejaspatil1936/Leetcode/tree/master/0162-find-peak-element) |
 ## Hash Table
@@ -101,6 +102,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/tejaspatil1936/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tejaspatil1936/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/tejaspatil1936/Leetcode/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejaspatil1936/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tejaspatil1936/Leetcode/tree/master/0130-surrounded-regions) |
 ## String
 |  |
 | ------- |
@@ -180,6 +183,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0113-path-sum-ii) |
+| [0130-surrounded-regions](https://github.com/tejaspatil1936/Leetcode/tree/master/0130-surrounded-regions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -213,6 +217,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0102-binary-tree-level-order-traversal](https://github.com/tejaspatil1936/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0130-surrounded-regions](https://github.com/tejaspatil1936/Leetcode/tree/master/0130-surrounded-regions) |
 ## String Matching
 |  |
 | ------- |
