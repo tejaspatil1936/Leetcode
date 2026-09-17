@@ -72,6 +72,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | [0055-jump-game](https://github.com/tejaspatil1936/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/tejaspatil1936/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/tejaspatil1936/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/tejaspatil1936/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tejaspatil1936/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejaspatil1936/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -108,6 +109,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejaspatil1936/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/tejaspatil1936/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/tejaspatil1936/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Dynamic Programming
@@ -166,6 +168,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tejaspatil1936/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tejaspatil1936/Leetcode/tree/master/0075-sort-colors) |
 ## Tree
 |  |
 | ------- |
@@ -280,4 +283,12 @@ Each solution uses the standard optimal approach for its problem rather than a b
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0126-word-ladder-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejaspatil1936/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tejaspatil1936/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
