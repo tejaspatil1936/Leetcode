@@ -61,6 +61,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejaspatil1936/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/tejaspatil1936/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/tejaspatil1936/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tejaspatil1936/Leetcode/tree/master/0037-sudoku-solver) |
@@ -192,6 +193,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejaspatil1936/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejaspatil1936/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/tejaspatil1936/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/tejaspatil1936/Leetcode/tree/master/0162-find-peak-element) |
@@ -263,6 +265,7 @@ Each solution uses the standard optimal approach for its problem rather than a b
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejaspatil1936/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tejaspatil1936/Leetcode/tree/master/0053-maximum-subarray) |
 ## Range Minimum/Maximum Query
 |  |
